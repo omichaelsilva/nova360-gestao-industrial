@@ -33,7 +33,7 @@
 
 ## Visão Geral
 
-O **NOVA360** é um sistema de gestão industrial desenvolvido como solução estratégica para a NovaEra Alimentos, empresa do setor alimentício com aproximadamente 120 colaboradores. O sistema nasce da necessidade de substituir planilhas manuais e sistemas isolados por uma plataforma centralizada, acessível e de rápida implantação.
+O **Sabor Gestão** é um sistema de gestão industrial desenvolvido como solução estratégica para a NovaEra Alimentos, empresa do setor alimentício com aproximadamente 120 colaboradores. O sistema nasce da necessidade de substituir planilhas manuais e sistemas isolados por uma plataforma centralizada, acessível e de rápida implantação.
 
 ### Problema identificado
 
@@ -47,7 +47,7 @@ A empresa operava com 5 eixos críticos de ineficiência operacional:
 
 ### Solução proposta
 
-O NOVA360 endereça cada eixo com um módulo dedicado, proporcionando visibilidade centralizada e alertas inteligentes em tempo real.
+O Sabor Gestão endereça cada eixo com um módulo dedicado, proporcionando visibilidade centralizada e alertas inteligentes em tempo real.
 
 ---
 
@@ -335,10 +335,10 @@ Contribuições são bem-vindas. Para contribuir:
 
 ## Licença
 
-Este projeto foi desenvolvido como proposta técnica pela **Sabor Gestão Empresa Júnior** para a **NovaEra Alimentos**. Todos os direitos reservados.
+Este projeto foi desenvolvido como proposta técnica fictícia apenas para o processo seletivo. Todos os direitos reservados.
 
 ---
 
 <p align="center">
-  NOVA360 · Sabor Gestão × NovaEra Alimentos · Desenvolvido com JavaScript puro
+   · Sabor Gestão × NovaEra Alimentos · Desenvolvido com JavaScript puro
 </p>
