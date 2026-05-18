@@ -1,4 +1,4 @@
-# NOVA360 — Sistema Integrado de Gestão Industrial
+# NOVAERA — Sistema Integrado de Gestão Industrial
 
 <p align="center">
   <img src="Imagens/novaera-logo-01.png" alt="NovaEra Alimentos Logo" width="220"/>
